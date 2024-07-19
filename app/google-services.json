@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "232777976674",
+    "firebase_url": "https://time-of-namaz-default-rtdb.firebaseio.com",
+    "project_id": "time-of-namaz",
+    "storage_bucket": "time-of-namaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232777976674:android:599d986fbb3f29004b7a3b",
+        "android_client_info": {
+          "package_name": "com.example.timeofnamaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB0WN-FJIcT34qG_0aMOHDTKk0BzCtNbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
